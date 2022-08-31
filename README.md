@@ -1,2 +1,1 @@
-# Tinparot
-tinprt
+TinDog Starting Files
